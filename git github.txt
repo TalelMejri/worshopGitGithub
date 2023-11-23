@@ -1,0 +1,32 @@
+*What is the command to get the installed version of Git ?
+
+-> 
+
+*what is the command to add all files and changes of the current folder to the staging environment of the Git repository?
+
+->
+
+*What is the command to initialize Git on the current repository?
+
+->
+
+*Git commit history is automatically deleted (Yes or No)
+
+->
+
+*What is the command to commit with the message "New email"
+
+->
+
+*What is the command to move to the branch named "new-email"?
+
+->
+
+*What is the command to delete the branch "new-email"
+
+-> 
+
+
+*Git Pull is a combination of
+
+-> fetch/merge or Add/Commit

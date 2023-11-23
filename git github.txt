@@ -1,14 +1,14 @@
 *What is the command to get the installed version of Git ?
 
--> 
+-> git --version 
 
 *what is the command to add all files and changes of the current folder to the staging environment of the Git repository?
 
-->
+-> git init 
 
 *What is the command to initialize Git on the current repository?
 
-->
+-> git add .
 
 *Git commit history is automatically deleted (Yes or No)
 

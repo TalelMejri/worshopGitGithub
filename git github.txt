@@ -4,11 +4,11 @@
 
 *what is the command to add all files and changes of the current folder to the staging environment of the Git repository?
 
-->
+-> 
 
 *What is the command to initialize Git on the current repository?
 
-->
+-> 
 
 *Git commit history is automatically deleted (Yes or No)
 
